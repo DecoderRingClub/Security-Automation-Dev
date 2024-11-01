@@ -48,7 +48,7 @@ Security-Automation-Dev/
 ├── Deployment/             # Deployment scripts and configurations
 ├── Node Integrations/      # Integration scripts for various platforms
 │   ├── Wazuh/              # Wazuh-specific integrations
-│   └──More Soon/           # IRIS-specific integrations
+│   └── More Soon/          # IRIS-specific integrations
 ├── Scripts/                # Standalone automation scripts
 ├── Tests/                  # Test cases and testing utilities
 └── Docs/                   # Documentation
@@ -65,7 +65,7 @@ Each script includes its own configuration requirements. Generally, you'll need 
 ## Documentation
 
 - Each script includes detailed comments explaining its purpose and usage
-- Configuration guides are available in the `/docs` directory
+- Configuration guides are available in the `/Docs` directory
 - Integration guides are provided for each supported platform
 
 ## Contributing
