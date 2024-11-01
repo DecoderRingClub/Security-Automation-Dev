@@ -36,8 +36,8 @@ This repository is under active development. Features and scripts are being adde
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/security-automation.git
-cd security-automation
+git clone https://github.com/DecoderRingClub/Security-Automation-Dev.git
+cd Security-Automation-Dev
 ```
 
 
