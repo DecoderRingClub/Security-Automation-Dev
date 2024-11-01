@@ -1,11 +1,11 @@
-# Security Operations Automation Repository
+# Security Operations Automation Repository (Project code name: Candyland
 
 This repository contains a collection of automated tools and scripts designed to streamline security operations, incident response, and deployment processes. Our goal is to reduce manual intervention in security workflows while maintaining robust security standards.
 
 This repository is under active development. Features and scripts are being added regularly.
 ⚠️ **Note**: Always test automation scripts in a controlled environment before deploying to production systems.
 
-## 🎯 Purpose
+## Purpose
 
 - Automate repetitive security tasks and workflows
 - Standardize security response procedures
@@ -14,7 +14,7 @@ This repository is under active development. Features and scripts are being adde
 - Reduce response time to security incidents
 - Minimize human error in security operations
 
-## 🛠️ Features (on-going dev)
+## Features (on-going dev)
 
 ### Current Automation Scripts
 - **Wazuh-IRIS Integration**: Automated alert processing and incident creation
@@ -26,13 +26,13 @@ This repository is under active development. Features and scripts are being adde
 - IRIS Incident Response Platform
 - more coming!
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.8+
 - Access to relevant security platforms (Wazuh, IRIS, etc.)
 - Necessary API keys and credentials
 
-## 🚀 Deploy
+## Deploy
 
 1. Clone the repository:
 ```bash
@@ -41,10 +41,10 @@ cd security-automation
 ```
 
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
-security-automation/
+Security-Automation-Dev/
 ├── deployment/          # Deployment scripts and configurations
 ├── integrations/        # Integration scripts for various platforms
 │   ├── wazuh/          # Wazuh-specific integrations
@@ -55,7 +55,7 @@ security-automation/
 └── docs/              # Documentation
 ```
 
-## 🔧 Configuration
+## Configuration
 
 Each script includes its own configuration requirements. Generally, you'll need to:
 1. Set up appropriate API access
@@ -63,13 +63,13 @@ Each script includes its own configuration requirements. Generally, you'll need 
 3. Adjust automation parameters as needed
 4. Set up logging and monitoring
 
-## 📚 Documentation
+## Documentation
 
 - Each script includes detailed comments explaining its purpose and usage
 - Configuration guides are available in the `/docs` directory
 - Integration guides are provided for each supported platform
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please:
 1. Fork the repository
@@ -84,18 +84,18 @@ We welcome contributions! Please:
 - Update documentation as needed
 - Ensure all tests pass before submitting PR
 
-## 🔒 Security
+## Security
 
 - Never commit sensitive credentials
 - Follow security best practices in automation scripts
 - Report security issues privately to maintainers
 - Regular security audits are performed on the codebase
 
-## ⚖️ License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
+## Support
 
 - Create an issue for bug reports or feature requests
 - Check existing issues before creating new ones
