@@ -1,4 +1,4 @@
-# Security Operations Automation Repository (Project code name: Candyland
+# Security Operations Automation Repository (Project codename: Candyland Storm)
 
 This repository contains a collection of automated tools and scripts designed to streamline security operations, incident response, and deployment processes. Our goal is to reduce manual intervention in security workflows while maintaining robust security standards.
 
