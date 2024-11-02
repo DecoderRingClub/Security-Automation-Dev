@@ -47,8 +47,6 @@ cd Security-Automation-Dev
 Security-Automation-Dev/
 ├── Deployment/             # Deployment scripts and configurations
 ├── Node Integrations/      # Integration scripts for various platforms
-│   ├── Wazuh/              # Wazuh-specific integrations
-│   └── More Soon/          # IRIS-specific integrations
 ├── Scripts/                # Standalone automation scripts
 ├── Tests/                  # Test cases and testing utilities
 └── Docs/                   # Documentation
