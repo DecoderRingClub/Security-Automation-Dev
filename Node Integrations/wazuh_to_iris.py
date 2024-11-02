@@ -25,7 +25,7 @@ import json
 
 # Severity Mapping
 # Converts Wazuh alert levels (0-15) to IRIS severity levels (1-6)
-alert_level = int($dummy.value.added)  # Expected Wazuh rule level/severity
+alert_level = int($dummy.value.added)  # Expected Wazuh rule level
 
 def map_severity(alert_level):
     """
